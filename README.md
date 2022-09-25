@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
-<h2 align="left"><mark>I am Rasha Daghlass, A Passionate Frontend Developer From Palestine.<mark/></h2>
-<h2>About Me 📌</h2>
+<h2 align="left"><mark>📌 I am Rasha Daghlass, A Passionate Frontend Developer From Palestine.<mark/></h2>
+<h2>📌 About Me </h2>
 
 
 - :cactus: I’m a motivated learner who's interested in Problem Solving. <br />
@@ -18,7 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasha-daghlass&show_icons=true&locale=en" alt="rasha-daghlass" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasha-daghlass&" alt="rasha-daghlass" /></p>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rasha-daghlass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasha-daghlass" height="30" width="40" /></a>
 <a href="https://fb.com/rasha.daghlass95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasha.daghlass95" height="30" width="40" /></a>
